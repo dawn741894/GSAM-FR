@@ -86,6 +86,8 @@ sh run_script.sh -m transformer -d ETTh1 -a
 - **Traffic Data**: traffic
 - **Exchange Rate Data**: exchange_rate
 
+The datasets can be obtained from Google Drive[https://drive.google.com/file/d/1l51QsKvQPcqILT3DwfjCgx8Dsg2rpjot/view] or Baidu Cloud[https://pan.baidu.com/share/init?surl=1AWXg1Z6UwjHzmto4hesAA&pwd=9qjr].
+
 ## Configuration Parameters
 
 Based on different datasets, the model automatically adjusts the following parameters:
